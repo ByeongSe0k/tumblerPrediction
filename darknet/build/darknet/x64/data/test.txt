@@ -1,0 +1,10 @@
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_35.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_46.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_14.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_3.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_82.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_87.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_21.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_60.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_42.jpg
+/Users/byeongseok/Desktop/tumbler/darknet/build/darknet/x64/data/obj/trainimg_24.jpg
